@@ -34,3 +34,29 @@ IPEM, or ipp-ementa mobile for short, is what most of the users will consume and
 #### Components diagram
 
 ![SYSTEM_ARCHITECTURE_COMPONENTS_DIAGRAM](documentation/system_architecture/IPP-EMENTA_COMPONENTS_DIAGRAM.jpg)
+
+
+## Business rules & Domain Model 
+
+ipp-ementa defines the following four main business entities:
+
+### School
+
+Schools are identified by a unique acronym which is followed by the school name (e.g. `ISEP (acronym) - Instituto Superior de Engenharia do Porto (name)`), and offers a set of canteens, needing to offer at least one canteen to be considered as valid
+
+### Canteen
+
+Canteens is where students can eat, being identified by a unique name (e.g `Cantina do ISEP`). They can provide daily menus which are specified for certain daily moments (e.g. Lunch / Dinner)
+
+### Menu
+
+Menus provide a set of dishes which students can choose. A menu can provide more than one dish of the same type and has to provide at least one dish
+
+### Dish
+
+Dishes is what students can choose to eat and they are visually identified by their type and description (e.g. `Vegetarian (type) - Peanut Slaw with Soba Noodles (description)`)
+
+
+#### Domain model diagram
+
+![DOMAIN_MODEL_DIAGRAM](documentation/business_model/IPP-EMENTA_DOMAIN_MODEL_DIAGRAM.jpg)
