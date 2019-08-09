@@ -59,4 +59,4 @@ Dishes is what students can choose to eat and they are visually identified by th
 
 #### Domain model diagram
 
-![DOMAIN_MODEL_DIAGRAM](documentation/business_model/IPP-EMENTA_DOMAIN_MODEL_DIAGRAM.jpg)
+![DOMAIN_MODEL_DIAGRAM](documentation/domain_model/IPP-EMENTA_DOMAIN_MODEL_DIAGRAM.jpg)
