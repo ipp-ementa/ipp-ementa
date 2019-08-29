@@ -30,6 +30,10 @@ IPES, or ipp-ementa scraper for short, is the one who fetches canteen menus info
 
 IPEM, or ipp-ementa mobile for short, is what most of the users will consume and use. It's a mobile application that consumes IPED REST API, retrieving all needed information which users want to see.
 
+### IPEA
+
+IPEA, or ipp-ementa authorization for short is the component that verifies if a client that is producing data on IPED is authorized. It produces a Web API which IPED consumes before updating existing data
+
 
 #### Components diagram
 
