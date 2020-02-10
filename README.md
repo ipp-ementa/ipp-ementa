@@ -10,6 +10,12 @@ ipp-ementa offers a delightful cross-platform mobile application which users can
 
 All menus data can be consumed via a REST API, available to everyone with no rate limit
 
+## Goals and Motivations
+
+The main goal of this project is to create a free, *non-bloated* and reliable solution for accessing the daily menus of the IPP schools canteens. In order to do such the architecture of the solution must keep in mind a variety of constraints and concerns in order to reach this goal.
+
+In terms of technologies, the biggest motivation is to conceive a solution that follows the Google Stack (Flutter, Dart, Python, Firebase, etc...). If this not possible or a technology was proven to be more suitable for the solution use cases, the technology being used should be free of use.
+
 ## Components responsibilities
 
 Currently ipp-ementa is structured in four components, being these:
