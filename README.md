@@ -3,10 +3,10 @@
 ipp-ementa aims to ease the access of [IPP](https://www.ipp.pt/) schools canteen menus.
 
 ## The problem
-Currently IPP offers a service for acessing canteen menus ([GiCANT](https://portal.ipp.pt/GICANT/Info_GiCANT.aspx)), but it's very limited as only IPP schools students and professors/employees can access it, as well as it's only available in various daily moments
+Currently IPP offers a service for acessing canteen menus through [Domus](https://domus.ipp.pt) but it's very limited as only IPP schools students and professors/employees can access it, as well as it's only available in various daily moments
 
 ## How does ipp-ementa come in handy? 
-ipp-ementa offers a delightful cross-platform mobile application which users can use it to view canteen menus without having to authenticate in GiCANT, at any time of the day.
+ipp-ementa offers a delightful cross-platform mobile application which users can use it to view canteen menus without having to authenticate in Domus, at any time of the day.
 
 All menus data can be consumed via a REST API, available to everyone with no rate limit
 
@@ -24,7 +24,7 @@ IPEW, or ipp-ementa warehouse for short, is ipp-ementa database, storing all inf
 
 ### IPES
 
-IPES, or ipp-ementa scraper for short, is the one who fetches canteen menus information by scraping GiCANT website HTML. It consumes IPED REST API in order to add new menus.
+IPES, or ipp-ementa scraper for short, is the one who fetches canteen menus information by scraping Domus website HTML. It consumes IPED REST API in order to add new menus.
 
 ### IPEM
 
