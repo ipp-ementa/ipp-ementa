@@ -79,4 +79,4 @@ Represents a global state of the mobile application, in which menus data is give
 
 #### Domain model diagram
 
-![DOMAIN_MODEL_DIAGRAM](documentation/domain_model/IPP-EMENTA_DOMAIN_MODEL_DIAGRAM.jpg)
+![DOMAIN_MODEL_DIAGRAM](documentation/domain_model/IPP-EMENTA-DOMAIN-MODEL.png)
