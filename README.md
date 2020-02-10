@@ -37,7 +37,7 @@ IPEA, or ipp-ementa authorization for short is the component that verifies if a 
 
 #### Components diagram
 
-![SYSTEM_ARCHITECTURE_COMPONENTS_DIAGRAM](documentation/system_architecture/IPP-EMENTA_COMPONENTS_DIAGRAM.jpg)
+![SYSTEM_ARCHITECTURE_COMPONENTS_DIAGRAM](documentation/system_architecture/IPP-EMENTA-ALL-COMPONENTS.png)
 
 
 ## Domain Concepts 
