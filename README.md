@@ -68,6 +68,10 @@ A geographical point, identified by its latitude and longitude, positioned on Ea
 
 A user that interacts with the mobile application (IPEM)
 
+### App Theme
+
+Identifies the graphical theme of the mobile application, being available in a light and dark mode
+
 
 #### Domain model diagram
 
