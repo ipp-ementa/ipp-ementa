@@ -66,7 +66,7 @@ A geographical point, identified by its latitude and longitude, positioned on Ea
 
 ### App User
 
-A user that interacts with the mobile application (IPEM)
+A user that interacts with the mobile application (IPEM) and is positioned on a geographical location. The user can enable and disable the offline mode setting and change the app theme
 
 ### App Theme
 
