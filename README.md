@@ -72,6 +72,10 @@ A user that interacts with the mobile application (IPEM)
 
 Identifies the graphical theme of the mobile application, being available in a light and dark mode
 
+### Offline Mode
+
+Represents a global state of the mobile application, in which menus data is given by a embedded storage
+
 
 #### Domain model diagram
 
