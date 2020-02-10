@@ -64,6 +64,10 @@ Dishes is what students can choose to eat and they are visually identified by th
 
 A geographical point, identified by its latitude and longitude, positioned on Earth
 
+### App User
+
+A user that interacts with the mobile application (IPEM)
+
 
 #### Domain model diagram
 
