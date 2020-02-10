@@ -50,7 +50,7 @@ Schools are identified by a unique acronym which is followed by the school name 
 
 ### Canteen
 
-Canteens is where students can eat, being identified by a unique name (e.g `Cantina do ISEP`). They can provide daily menus which are specified for certain daily moments (e.g. Lunch / Dinner)
+Canteens is where students can eat, being identified by a unique name (e.g `Cantina do ISEP`). They can provide daily menus which are specified for certain daily moments (e.g. Lunch / Dinner). A canteen is positioned on a geographical location
 
 ### Menu
 
@@ -59,6 +59,10 @@ Menus provide a set of dishes which students can choose. A menu can provide more
 ### Dish
 
 Dishes is what students can choose to eat and they are visually identified by their type and description (e.g. `Vegetarian (type) - Peanut Slaw with Soba Noodles (description)`)
+
+### Geographical Location
+
+A geographical point, identified by its latitude and longitude, positioned on Earth
 
 
 #### Domain model diagram
