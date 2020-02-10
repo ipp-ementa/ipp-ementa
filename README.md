@@ -46,6 +46,13 @@ IPEA, or ipp-ementa authorization for short is the component that verifies if a 
 ![SYSTEM_ARCHITECTURE_COMPONENTS_DIAGRAM](documentation/system_architecture/IPP-EMENTA-ALL-COMPONENTS.png)
 
 
+#### Deployment diagram
+
+![DEPLOYMENT_DIAGRAM](documentation/system_architecture/IPP-EMENTA-DEPLOYMENT-DIAGRAM.png)
+
+One thing to keep in mind, in the diagram above, IPES is found in two nodes, Raspberry PI 3B+ and ISEP Ubuntu Virtual Machine. This was done in such way that primarly, IPES is deployed in ISEP Ubuntu Virtual Machine, but if this runtime environment is not available, a Raspberry PI 3B+ is powered and replaces the virtual machine.
+
+
 ## Domain Concepts 
 
 ipp-ementa defines the following four main business entities:
