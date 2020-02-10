@@ -40,7 +40,7 @@ IPEA, or ipp-ementa authorization for short is the component that verifies if a 
 ![SYSTEM_ARCHITECTURE_COMPONENTS_DIAGRAM](documentation/system_architecture/IPP-EMENTA_COMPONENTS_DIAGRAM.jpg)
 
 
-## Business rules & Domain Model 
+## Domain Concepts 
 
 ipp-ementa defines the following four main business entities:
 
