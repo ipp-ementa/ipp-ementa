@@ -93,3 +93,16 @@ Represents a global state of the mobile application, in which menus data is give
 #### Domain model diagram
 
 ![DOMAIN_MODEL_DIAGRAM](documentation/domain_model/IPP-EMENTA-DOMAIN-MODEL.png)
+
+
+## Roadmap
+
+The following table describes the roadmap towards achieving the goals of ipp-ementa.
+
+|Version|Features|Planned Release Date|
+|-------|--------|--------------------|
+|`1.0`|- Display of existing schools, their canteens, available menus and dishes <br> - Offline Mode <br> - Change of App Theme|**04/2020**|
+|`1.1`|- React to a dish enjoyness|**05/2020**|
+|`1.2`|- Visualizing canteens location on a map <br> - Visualizing a path from my mobile device location to a canteen location on a map|**07/2020**|
+|`1.3`|- Receive push notifications about dishes availability <br> - Receive push notifications about nearby canteens|**08/2020**|
+|`1.4`|- Share a dish with a friend via messaging apps|**09/2020**|
