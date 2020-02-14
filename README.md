@@ -18,7 +18,7 @@ In terms of technologies, the biggest motivation is to conceive a solution that 
 
 ## Components responsibilities
 
-Currently ipp-ementa is structured in four components, being these:
+Currently ipp-ementa is structured in five components, being these:
 
 ### IPED
 
